@@ -55,45 +55,51 @@ I'm a passionate developer focused on building modern, scalable and user-friendl
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=usama0504&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
-alt="GitHub Stats" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=usama0504&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+alt="GitHub Stats"
+/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama0504&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-alt="Top Languages" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama0504&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+alt="Top Languages"
+/>
 
 </div>
-
----
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=usama0504&theme=tokyonight&hide_border=true"
-alt="GitHub Streak" />
+src="https://streak-stats.demolab.com/?user=usama0504&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </div>
 
----
-
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=usama0504&theme=tokyo-night&hide_border=true&area=true&custom_title=Usama's%20Contribution%20Activity"
-alt="Contribution Activity Graph" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=usama0504&theme=tokyo-night&hide_border=true&area=true"
+alt="Contribution Activity"
+/>
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=usama0504&theme=tokyonight&no-frame=true&no-bg=true&column=4"
+alt="GitHub Trophies"
+/>
 
 </div>
-
----
 
 # 🚀 Featured Projects
 
