@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Usama
 
-### 💻 Laravel Developer | PHP Developer | Full-Stack Developer
-
+###  💻 Laravel & PHP Developer | Full-Stack Web Development
 <p>
   <a href="https://github.com/usama0504">
     <img src="https://img.shields.io/github/followers/usama0504?label=Followers&style=for-the-badge" />
@@ -120,26 +119,6 @@ A simple and practical Todo List application for managing daily tasks.
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=usama0504&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-alt="GitHub Stats"
-/>
-
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama0504&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-alt="Top Languages"
-/>
-
-</div>
 
 ---
 
