@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/usama0504?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/usama0504?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Repositories-4-blue?style=for-the-badge" />
   </a>
   <a href="mailto:usama.webdev54@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
@@ -22,36 +22,104 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer focused on building modern, scalable and user-friendly web applications.
+I'm a passionate **Laravel & PHP Developer** focused on building modern,
+scalable, secure and user-friendly web applications.
 
 - 🔭 Currently working on **Wiggle**
 - 🌱 Currently learning **Advanced Laravel**
 - 💬 Ask me about **Laravel, PHP, Vue.js & REST APIs**
 - 🗄️ Working with **MySQL & Eloquent ORM**
+- 🔐 Interested in Authentication, APIs & Laravel Sanctum
 - 🎨 Interested in clean UI/UX and responsive web applications
-- 🚀 Building real-world projects and improving my development skills
+- 🚀 Building real-world projects and continuously improving my skills
 
 ---
 
 ## 🧰 Tech Stack
 
-### Backend
+### 🔙 Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" />
 </p>
 
-### Tools
+### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Student Management
+
+A Laravel-based student management system with CRUD operations, authentication, search, pagination, image upload, courses and REST APIs.
+
+<p>
+<a href="https://github.com/usama0504/student-management">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🏥 Hospital Management
+
+A web-based hospital management project built to manage patients and hospital-related data.
+
+<p>
+<a href="https://github.com/usama0504/hospital_management_copy">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Ecommerce Shop
+
+An e-commerce web application project focused on products and online shopping functionality.
+
+<p>
+<a href="https://github.com/usama0504/Ecommerce-Shop">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### ✅ Todo List
+
+A simple and practical Todo List application for managing daily tasks.
+
+<p>
+<a href="https://github.com/usama0504/Todo-List">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,6 +132,8 @@ src="https://github-readme-stats.vercel.app/api?username=usama0504&show_icons=tr
 alt="GitHub Stats"
 />
 
+<br>
+
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama0504&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
 alt="Top Languages"
@@ -71,7 +141,9 @@ alt="Top Languages"
 
 </div>
 
-# 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -82,6 +154,8 @@ alt="GitHub Streak"
 
 </div>
 
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -90,6 +164,11 @@ alt="GitHub Streak"
 src="https://github-readme-activity-graph.vercel.app/graph?username=usama0504&theme=tokyo-night&hide_border=true&area=true"
 alt="Contribution Activity"
 />
+
+</div>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -101,7 +180,9 @@ alt="GitHub Trophies"
 
 </div>
 
-# 📚 Currently Learning
+---
+
+## 📚 Currently Learning
 
 ```text
 Laravel
