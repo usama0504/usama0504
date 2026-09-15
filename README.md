@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Usama
 
-<!--
-**usama0504/usama0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Laravel Developer | PHP Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building web applications using Laravel and PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Laravel & PHP Developer
+- 🗄️ MySQL & Eloquent ORM
+- 🔗 REST API Development
+- 🎨 Bootstrap & Blade
+- 📚 Currently learning Advanced Laravel
+- 🚀 Building real-world Laravel projects
+
+## 🛠️ Tech Stack
+
+- PHP
+- Laravel
+- MySQL
+- REST APIs
+- Eloquent ORM
+- Blade
+- Bootstrap
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🎓 Student Management System
+Laravel-based student management application with:
+- Student CRUD
+- Authentication
+- Search & Pagination
+- Image Upload
+- Courses & Relationships
+- REST API
+
+### 🏥 Hospital Management System
+Laravel-based hospital management application.
+
+## 📚 Currently Learning
+
+- Advanced Laravel
+- Eloquent Relationships
+- REST APIs
+- Laravel Authentication
+- Vue.js
+
+## 📫 Connect With Me
+
+- GitHub: [@usama0504](https://github.com/usama0504)
+
+---
+
+⭐ Thanks for visiting my profile!
