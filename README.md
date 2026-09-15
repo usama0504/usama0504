@@ -101,32 +101,6 @@ alt="GitHub Trophies"
 
 </div>
 
-# 🚀 Featured Projects
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/usama0504/student-management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usama0504&repo=student-management&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/usama0504/hospital_management_copy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usama0504&repo=hospital_management_copy&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/usama0504/Ecommerce-Shop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usama0504&repo=Ecommerce-Shop&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/usama0504/Todo-List">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=usama0504&repo=Todo-List&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 ```text
