@@ -1,210 +1,115 @@
-<!-- HEADER -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
+# 👋 Hi, I'm Muhammad Usama
 
-<h3 align="center">
-  Laravel Developer | PHP Developer | Full-Stack Web Developer
-</h3>
+### 💻 Laravel Developer | PHP Developer | Full-Stack Developer
 
-<p align="center">
+<p>
   <a href="https://github.com/usama0504">
-    <img src="https://komarev.com/ghpvc/?username=usama0504&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/usama0504?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/usama0504?tab=followers">
-    <img src="https://img.shields.io/github/followers/usama0504?label=Followers&style=flat" alt="Followers"/>
+  <a href="https://github.com/usama0504?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:usama.webdev54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer focused on building modern and scalable web applications using Laravel and PHP.
+I'm a passionate developer focused on building modern, scalable and user-friendly web applications.
 
 - 🔭 Currently working on **Wiggle**
 - 🌱 Currently learning **Advanced Laravel**
-- 💬 Ask me about **Laravel, PHP, Vue.js, REST APIs**
-- 🗄️ Experienced with **MySQL & Eloquent ORM**
-- 🎨 Interested in building clean and responsive web interfaces
-- 🚀 Always learning and working on real-world projects
+- 💬 Ask me about **Laravel, PHP, Vue.js & REST APIs**
+- 🗄️ Working with **MySQL & Eloquent ORM**
+- 🎨 Interested in clean UI/UX and responsive web applications
+- 🚀 Building real-world projects and improving my development skills
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Tech Stack
 
-<p align="left">
+### Backend
 
-<a href="https://www.php.net/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
 
-<a href="https://laravel.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
-</a>
+### Frontend
 
-<a href="https://vuejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" />
+</p>
 
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</a>
+### Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=usama0504&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
-alt="GitHub Stats"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=usama0504&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
+alt="GitHub Stats" />
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama0504&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-alt="Top Languages"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama0504&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+alt="Top Languages" />
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=usama0504&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"/>
+src="https://streak-stats.demolab.com?user=usama0504&theme=tokyonight&hide_border=true"
+alt="GitHub Streak" />
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=usama0504&theme=tokyo-night&hide_border=true&area=true"
-alt="Contribution Activity Graph"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=usama0504&theme=tokyo-night&hide_border=true&area=true&custom_title=Usama's%20Contribution%20Activity"
+alt="Contribution Activity Graph" />
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=usama0504&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-alt="GitHub Trophies"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Student Management System
-
-Laravel-based student management system featuring:
-
-- Student CRUD
-- Authentication
-- Search & Pagination
-- Image Upload
-- Courses & Relationships
-- REST API
-- Bootstrap UI
+<div align="center">
 
 <a href="https://github.com/usama0504">
-View Project →
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usama0504&repo=student-management&theme=tokyonight&hide_border=true" />
 </a>
-
-</td>
-
-<td width="50%">
-
-### 🏥 Hospital Management System
-
-A Laravel-based hospital management application focused on managing patients and healthcare-related data.
-
-- Laravel
-- PHP
-- MySQL
-- Vue.js
-- REST API
 
 <a href="https://github.com/usama0504">
-View Project →
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=usama0504&repo=hospital-management&theme=tokyonight&hide_border=true" />
 </a>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%">
-
-### 💼 Wiggle
-
-Currently working on a production-oriented web application.
-
-- Laravel
-- Vue.js
-- Inertia
-- MySQL
-- Reverb
-
-<a href="https://github.com/ahmadghouri/wiggles">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🔗 Laravel REST APIs
-
-Building REST APIs using Laravel with authentication, validation, CRUD operations and JSON responses.
-
-<a href="https://github.com/usama0504">
-View Projects →
-</a>
-
-</td>
-</tr>
-</table>
+> ⚠️ Change `student-management` and `hospital-management` above to your **actual GitHub repository names**.
 
 ---
 
@@ -212,15 +117,15 @@ View Projects →
 
 ```text
 Laravel
-├── Eloquent Relationships
-├── Authentication
-├── REST APIs
-├── Sanctum
-├── Middleware
-├── Events & Listeners
-└── Advanced Laravel
+ ├── Eloquent Relationships
+ ├── Authentication
+ ├── REST APIs
+ ├── Laravel Sanctum
+ ├── Middleware
+ ├── Events & Listeners
+ └── Advanced Laravel
 
 Frontend
-├── Vue.js
-├── JavaScript
-└── Inertia.js
+ ├── Vue.js
+ ├── JavaScript
+ └── Inertia.js
