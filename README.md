@@ -42,9 +42,13 @@ scalable, secure and user-friendly web applications.
   <a href="mailto:usama.webdev54@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/m.usama0504">
+  <a href="https://www.instagram.com/m.usama0504">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/share/1HJPJ6P44H/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 </p>
 
 ---
